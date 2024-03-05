@@ -17,3 +17,4 @@ L'objectif de ce script est de rendre plus lisibles les jeux possédés et souha
 
 ![PK STYLUS gg.deals](/screenshot/pkgg1.png)
 ![PK STYLUS gg.deals](/screenshot/pkgg2.png)
+![PK STYLUS gg.deals](/screenshot/pkgg3.png)
