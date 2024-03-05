@@ -10,4 +10,5 @@ L'objectif de ce script est de rendre plus lisibles les jeux possédés et souha
 3/ collez le contenu de mon fichier css dans ce style pour gg.deals
 4/ sauvegardez 
 
-![PK STYLUS gg.deals](/pkgg1.png)
+![PK STYLUS gg.deals](/screenshot/pkgg1.png)
+![PK STYLUS gg.deals](/screenshot/pkgg2.png)
